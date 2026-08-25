@@ -1,0 +1,49 @@
+# =========================
+# C / C++
+# =========================
+# Objetos y binarios
+*.o
+*.out
+*.exe
+*.so
+*.a
+
+# =========================
+# Rust
+# =========================
+# Carpeta de compilación generada por Cargo
+target/
+# Archivos de volcado de errores
+Cargo.lock.bk
+*.rs.bk
+
+# =========================
+# Archivos de Linux / SO / Generales
+# =========================
+# Archivos comprimidos
+*.tar
+*.tar.gz
+*.zip
+*.rar
+
+# Archivos temporales y logs
+*.log
+*.tmp
+.swp
+*~
+
+# Entornos virtuales
+venv/
+.env
+
+# =========================
+# Editores y Entornos
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+hello
