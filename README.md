@@ -21,9 +21,9 @@ The goal of this lab is to document my progress, solidify my understanding of co
 
 A chronological record of my labs, experiments, and learnings over the next few months:
 
-| **Date** | **Category** | **Lab / Experiment**                                                                         | **Key Concepts**                     |
-| -------- | ------------ | -------------------------------------------------------------------------------------------- | ------------------------------------ |
-| Aug 2026 | `C`          | [02 - Even Number Counter](https://www.google.com/search?q=./variables-statements/counter.c) | Loops, Modulo operator, Control flow |
-| Aug 2026 | `C`          | [01 - Hello World](https://www.google.com/search?q=./c/hello-world)                          | GCC, Git workflows, Basic I/O        |
+| **Date** | **Category** | **Lab / Experiment**                                 | **Key Concepts**                     |
+| -------- | ------------ | ---------------------------------------------------- | ------------------------------------ |
+| Aug 2026 | `C`          | [02 - Even Number Counter](./c/variables-statements) | Loops, Modulo operator, Control flow |
+| Aug 2026 | `C`          | [01 - Hello World](./c/hello-world)                  | GCC, Git workflows, Basic I/O        |
 
 <!-- Add new entries above this line -->
